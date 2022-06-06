@@ -1,0 +1,45 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    background-color: darkgray;
+}
+
+h1 {
+    color: red;
+}
+
+.sistem {
+    padding-left: 0px;
+}
+
+.propi {
+    margin-top: 10px;
+    list-style-type: none;
+    color: red;
+    
+}
+
+.cliente {
+    margin-top: 10px;
+    list-style-type: none;
+}
+
+img {
+    margin-bottom: 10px;
+    width: 100px;
+    border-radius: 5px;
+}
+
+.img2 {
+    margin-bottom: 5px;
+    width: 30px;
+    border-radius: 1px;
+}
+
+.item {
+    list-style-type: none;
+}
+
+.lista {
+    list-style-type: none;
+}
